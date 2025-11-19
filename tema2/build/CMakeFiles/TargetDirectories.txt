@@ -1,0 +1,3 @@
+/home/razvan/Desktop/tema1/tema2/build/CMakeFiles/tema_executabil.dir
+/home/razvan/Desktop/tema1/tema2/build/CMakeFiles/edit_cache.dir
+/home/razvan/Desktop/tema1/tema2/build/CMakeFiles/rebuild_cache.dir

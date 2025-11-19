@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tema_executabil.dir/src/Main.cpp.o -o build/tema_executabil 
